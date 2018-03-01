@@ -2,3 +2,5 @@
 currentUser = 'currentUser'
 
 welcomeMessage =  "Welcome to Flatbook, ${currentUser}!"
+
+excitedWelcomeMessage = "WELCOME TO FLATBOOK, ${currentUser}!"
